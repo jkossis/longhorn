@@ -1,0 +1,3 @@
+[tools.dotnet]
+version = "9.0.300"
+backend = "asdf:dotnet"

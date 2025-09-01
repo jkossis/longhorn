@@ -1,0 +1,5 @@
+[env]
+MISE_EXPERIMENTAL = true
+
+[tools]
+dotnet = "9.0.300"
